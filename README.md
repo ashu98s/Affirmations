@@ -1,2 +1,4 @@
 ### Affirmations app
-### Language used: Android, Kotlin, XML
+### Language used: 
+
+Android, Kotlin, XML
